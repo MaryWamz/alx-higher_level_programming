@@ -15,5 +15,5 @@ This project is part of the ALX Software Engineering program, focusing on Python
 
 1. **Clone the repository:**
    ```bash
-   git clone  https://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@github.com/MaryWamz/alx-low_level_programming.git
+   git clone https://github.com/MaryWamz/alx-higher_level_programming.git
 
